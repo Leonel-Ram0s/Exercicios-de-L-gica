@@ -1,0 +1,16 @@
+.result {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    align-items: flex-start;
+    width: 300px;
+    height: 150px;
+    border: 1px solid var(--primary-color);
+    font: italic 1.5rem serif;
+    font-weight: 500;
+     box-shadow: 0px 0px 10px black; 
+     background-color: var(--light-color); 
+     color: rgb(183, 56, 56);
+    padding: 20px;
+    user-select: none;
+}
